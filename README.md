@@ -1,2 +1,2 @@
-# PGD_Practice
-This Repo is for practice.
+# PGD_Assignments_Practice_Repo
+
